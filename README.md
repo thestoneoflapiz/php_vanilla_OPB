@@ -32,11 +32,12 @@ This section list major frameworks/libraries used create the mini project.
 
 _using WINDOWS OS follow this steps._
 
-2. Clone the repo
+1. Install XAMPP or use any alternative open-source cross-platform web server solution app
+2. Navigate to `C:\xampp\htdocs`
+3. Clone the repo
    ```sh
     git clone https://github.com/thestoneoflapiz/php_vanilla_OPB.git
    ```
-3. Install XAMPP or use any alternative
 4. Open phpMyAdmin to import `blog.sql` database
 5. Configure `database.php` dbHost, dbUser, and dbPass
 6. Use Notepad and run as admin to open XAMPP Vhost `C:\xampp\apache\conf\extra\httpd-vhosts` and copy and paste the content from `vhost.txt` then save
