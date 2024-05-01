@@ -8,7 +8,10 @@
   </p>
 </div>
 
-### Built With
+------
+
+
+## Built With
 
 This section list major frameworks/libraries used create the mini project.
 
@@ -18,14 +21,14 @@ This section list major frameworks/libraries used create the mini project.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[php.net]: https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white
+[php.net]: https://img.shields.io/badge/PHP%208.2.4-7A86B8?style=for-the-badge&logo=php&logoColor=white
 [php-url]: https://www.php.net/
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap%205.3.3-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery.com]: https://img.shields.io/badge/jQuery%203.1.7-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
-### Installation
+## Installation
 
 _using WINDOWS OS follow this steps._
 
@@ -37,14 +40,16 @@ _using WINDOWS OS follow this steps._
 4. Open phpMyAdmin to import `blog.sql` database
 5. Configure `database.php` dbHost, dbUser, and dbPass
 6. Use Notepad and run as admin to open XAMPP Vhost `C:\xampp\apache\conf\extra\httpd-vhosts` and copy and paste the content from `vhost.txt` then save
-7. Use Notepad and run as admin to open `C:\Windows\System32\drivers\etc\hosts` and paste this `127.0.0.1		onepaperblog.local` then save
+7. Use Notepad and run as admin to open `C:\Windows\System32\drivers\etc\hosts` and paste this <br/>
+`127.0.0.1		onepaperblog.local` <br/>
+then save
 8. Stop and start Apache & MySQL from XAMPP
 9. Paste `http://onepaperblog.local` to any browser's search
 
 _If you experience XAMPP technical issues feel free to check their documentation or seek help online._
 
-### Access
+## Access
 
-default access: 
-username: superadmin
-password: admin123
+default access: <br/>
+<b>username:</b> superadmin <br/>
+<b>password:</b> admin123 <br/>
