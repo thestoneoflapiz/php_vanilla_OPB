@@ -12,14 +12,14 @@
 
 This section list major frameworks/libraries used create the mini project.
 
-* [![PHP 8.2.4][php.net]][PHP-url]
+* [![PHP 8.2.4][php.net]][php-url]
 * [![Bootstrap 5.3.3][Bootstrap.com]][Bootstrap-url]
 * [![JQuery 3.1.7][JQuery.com]][JQuery-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [php.net]: https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white
-[Bootstrap-url]: https://www.php.net/
+[php-url]: https://www.php.net/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
