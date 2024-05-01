@@ -1,0 +1,9 @@
+<VirtualHost onepaperblog.local:80>
+  DocumentRoot "C:\xampp\htdocs\php_vanilla"
+  ServerAdmin onepaperblog.local
+  <Directory "C:\xampp\htdocs\php_vanilla">
+        Options Indexes FollowSymLinks
+        AllowOverride All
+        Require all granted
+  </Directory>
+</VirtualHost>
